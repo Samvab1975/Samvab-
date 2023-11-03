@@ -1,0 +1,24 @@
+div{
+    text-align: center;
+}
+.second{
+/*background colour: yellow;*/
+font-size: 30px;
+}
+
+#specific-div{
+    font-size: 50px;
+    font-style: italic;
+    font-family: sans-serif;
+    font-weight: 250px;
+
+}
+
+/* img["200px"]
+} */
+
+#kholi-image {
+    width: 120px
+    hight: 150px 
+
+}
